@@ -6,9 +6,9 @@
 - 🌱 Currently diving deeper into React and Next.js and backend.
 - 🤝 Excited to collaborate on Frontend and API Integration projects.
 - 💬 Feel free to ask me about Web Development and Responsive UI Design.
-- 📧 Reach me at:  [![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:swastikanayak22@gmail.com)
+- 📧 Reach me at:[![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:swastikanayak22@gmail.com)
 
-- 🎯 Fun fact: Lovetravelling and eating 
+- 🎯 Fun fact: Loves travelling and eating 
 
 Languages and Tools:
 
