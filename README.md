@@ -6,12 +6,13 @@
 - 🌱 Currently diving deeper into React and Next.js and backend.
 - 🤝 Excited to collaborate on Frontend and API Integration projects.
 - 💬 Feel free to ask me about Web Development and Responsive UI Design.
-- 📧 Reach me at:  Gmail Badge swastikanayak22@gmail.com
+- 📧 Reach me at:  [![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](mailto:swastikanayak22@gmail.com)
+
 - 🎯 Fun fact: Lovetravelling and eating 
 
 Languages and Tools:
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
